@@ -41,6 +41,7 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [India Open Government Data](https://data.gov.in/) – Government of India open data portal.
 - [Open State Foundation](https://openstate.eu/en/) – Projects to unlock government data in the Netherlands.
 - [OpenAIRE](https://www.openaire.eu/) – EU-based open access research and public data platform.
+- [Crime Brasil](https://crimebrasil.com.br) – Open-data platform consolidating Brazilian crime statistics (~3M incidents geocoded by neighborhood in RS + municipality in MG/RJ + national PRF/DATASUS). Free REST API, CC BY 4.0.
 
 ## Science & Research Data
 
