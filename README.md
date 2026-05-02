@@ -41,6 +41,7 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [India Open Government Data](https://data.gov.in/) – Government of India open data portal.
 - [Open State Foundation](https://openstate.eu/en/) – Projects to unlock government data in the Netherlands.
 - [OpenAIRE](https://www.openaire.eu/) – EU-based open access research and public data platform.
+- [FedSalary](https://fedsalary.com/) – Verified federal/national government employee pay tables for 17 countries (~19,000 cells), CC-BY 4.0. Mirrored on [GitHub](https://github.com/dregon03/fedsalary-data) and [Hugging Face](https://huggingface.co/datasets/fedsalary/fedsalary).
 
 ## Science & Research Data
 
