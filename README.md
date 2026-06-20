@@ -77,6 +77,8 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [Copernicus Open Access Hub](https://scihub.copernicus.eu/) – Sentinel satellite data from the European Space Agency.
 - [Global Forest Watch](https://www.globalforestwatch.org/) – Deforestation and forest monitoring data.
 
+- [GoccIA Benchmark](https://goccia.org/benchmark) – Anonymous aggregated dataset of Italian tap-water quality scores (1-99), computed from user-submitted lab reports against EU Directive 2020/2184 (D.Lgs. 18/2023) limits and WHO/EFSA ideal ranges. Open data with [Dataset JSON-LD](https://goccia.org/benchmark). MIT-licensed tool: https://github.com/tutor-sicurezza/goccia.
+
 ## Company & Corporate Data
 
 - [OpenCorporates](https://opencorporates.com/) – The largest open database of companies in the world.
