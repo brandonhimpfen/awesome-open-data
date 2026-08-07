@@ -41,6 +41,7 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [India Open Government Data](https://data.gov.in/) – Government of India open data portal.
 - [Open State Foundation](https://openstate.eu/en/) – Projects to unlock government data in the Netherlands.
 - [OpenAIRE](https://www.openaire.eu/) – EU-based open access research and public data platform.
+- [Open FedSpend Data](https://github.com/ConorsCode/open-fedspend-data) – Free, daily-updated dataset of ~28,000 US federal contract awards on a rolling 7-day window, pulled from USAspending.gov's public API.
 
 ## Science & Research Data
 
