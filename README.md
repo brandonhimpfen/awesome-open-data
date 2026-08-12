@@ -38,6 +38,7 @@ Open data enables transparency, innovation, and collaboration across science, go
 
 - [UK Data Service](https://ukdataservice.ac.uk/) – Social and economic data for the UK.
 - [Canada Open Data](https://open.canada.ca/en/open-data) – Open datasets from the Government of Canada.
+- [Government of Canada Contracts and Grants](https://proposalforge.io/canadian-contracts) – Free search across 1.3M+ disclosed Canadian federal contracts and grants, derived from open.canada.ca proactive disclosure under the Open Government Licence – Canada.
 - [India Open Government Data](https://data.gov.in/) – Government of India open data portal.
 - [Open State Foundation](https://openstate.eu/en/) – Projects to unlock government data in the Netherlands.
 - [OpenAIRE](https://www.openaire.eu/) – EU-based open access research and public data platform.
