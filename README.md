@@ -33,6 +33,7 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [UNdata](http://data.un.org/) – United Nations’ statistical databases.
 - [Kaggle Datasets](https://www.kaggle.com/datasets) – Collection of curated datasets across domains.
 - [Google Dataset Search](https://datasetsearch.research.google.com/) – A search engine for datasets.
+- [DataInt Databook](https://databook.dataint.net/) – Country reference data for 250 countries, consolidated from World Bank, UN, UNESCO and World Factbook with per-figure source attribution.
 
 ## Government Open Data
 
