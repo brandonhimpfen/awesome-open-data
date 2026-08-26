@@ -62,6 +62,7 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [HealthData.gov](https://www.healthdata.gov/) – U.S. healthcare datasets.
 - [OpenNeuro](https://openneuro.org/) – Public data for neuroscience research.
 - [Global Health Observatory (WHO)](https://www.who.int/data/gho) – World Health Organization's open health data.
+- [Magistra GLP-1 Database](https://magistra.health/en/data) – Real-world side-effect evidence for GLP-1 weight-loss medications, aggregated daily from PubMed, FDA FAERS, ClinicalTrials.gov, and community reports, with a free no-signup JSON API and published methodology.
 
 ## Financial & Economic Data
 
