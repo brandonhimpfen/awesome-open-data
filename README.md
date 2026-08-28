@@ -69,6 +69,7 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [IMF Data](https://data.imf.org/) – Global macroeconomic data from the International Monetary Fund.
 - [FRED](https://fred.stlouisfed.org/) – Economic research data from the U.S. Federal Reserve.
 - [Quandl](https://www.quandl.com/) – Open and premium financial, economic, and alternative data.
+- [Equipment Capital Index](https://www.equipmentcapitalindex.com/api/rate-report.json) – Free, open API and dataset for real commercial equipment financing rate and payment benchmarks, backed by a CC BY 4.0 dataset and Zenodo DOI.
 
 ## Environment & Climate Data
 
