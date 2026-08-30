@@ -55,6 +55,8 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [Natural Earth](https://www.naturalearthdata.com/) – Public domain map dataset of the world.
 - [USGS Earth Explorer](https://earthexplorer.usgs.gov/) – Satellite imagery and geospatial data from the U.S. Geological Survey.
 - [NASA Earthdata](https://earthdata.nasa.gov/) – Earth science data from NASA.
+- [PlaneCrashData](https://www.planecrashdata.com/) – Global aviation safety and crash dataset with 3D geospatial visualization covering incidents from 1919 to present.
+
 
 ## Healthcare & Medical Data
 
