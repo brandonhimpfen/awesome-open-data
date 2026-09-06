@@ -89,6 +89,7 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [Open States](https://openstates.org/) – U.S. state-level legislation and lawmaker tracking.
 - [Election Data Archive](https://electiondataarchive.org/) – Open data on elections and voting behavior.
 - [ParlTrack](https://parltrack.org/) – European Parliament legislative data tracker.
+- [WaitingForPower](https://waitingforpower.com/) – Live tracker of U.S. energy permitting projects, with public hearing dates and locations sourced from state utility commission dockets.
 
 ## Tools & Libraries
 
