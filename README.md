@@ -34,6 +34,7 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [UNdata](http://data.un.org/) – United Nations’ statistical databases.
 - [Kaggle Datasets](https://www.kaggle.com/datasets) – Collection of curated datasets across domains.
 - [Google Dataset Search](https://datasetsearch.research.google.com/) – A search engine for datasets.
+- [eBay Sold Comps](https://github.com/silentdirectivellc-hub/ebay-sold-comps) - 570 completed eBay sales across 9 collectible categories (Pyrex, cast iron, sterling, Fiesta, Le Creuset, Hot Wheels, CorningWare, sewing machines, retro games) as plain CSV: title, sold price, end date, condition, search keyword and the item id so any row can be re-opened on eBay. CC0, with a METHOD.md that states the sampling window and what was dropped and why.
 
 ## Government Open Data
 
