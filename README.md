@@ -89,6 +89,7 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [EveryPolitician](https://everypolitician.org/) – Data on national politicians in every country.
 - [Open States](https://openstates.org/) – U.S. state-level legislation and lawmaker tracking.
 - [Election Data Archive](https://electiondataarchive.org/) – Open data on elections and voting behavior.
+- [Lawyer Advertising Rules by State](https://probativegrowth.com/resources/lawyer-advertising-rules-by-state/) – Open (CC BY 4.0) table of how each U.S. state and DC regulates lawyer advertising, with sources and a DOI.
 - [ParlTrack](https://parltrack.org/) – European Parliament legislative data tracker.
 
 ## Tools & Libraries
