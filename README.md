@@ -22,6 +22,7 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [Financial & Economic Data](#financial--economic-data)
 - [Environment & Climate Data](#environment--climate-data)
 - [Company & Corporate Data](#company--corporate-data)
+- [Education Data](#education-data)
 - [Civic & Political Data](#civic--political-data)
 - [Tools & Libraries](#tools--libraries)
 - [Related Awesome Lists](#related-awesome-lists)
@@ -83,6 +84,10 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [OpenCorporates](https://opencorporates.com/) – The largest open database of companies in the world.
 - [SEC EDGAR Database](https://www.sec.gov/edgar.shtml) – U.S. corporate financial filings.
 - [Companies House (UK)](https://www.gov.uk/government/organisations/companies-house) – UK company registration and filings.
+
+## Education Data
+
+- [EducatorPathways U.S. Teacher Shortage Areas](https://www.educatorpathways.com/teacher-shortage-tracker) – Free interactive tracker and open dataset of U.S. teacher shortage areas (Zenodo DOI [10.5281/zenodo.22868172](https://doi.org/10.5281/zenodo.22868172)).
 
 ## Civic & Political Data
 
