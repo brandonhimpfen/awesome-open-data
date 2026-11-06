@@ -42,6 +42,7 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [India Open Government Data](https://data.gov.in/) – Government of India open data portal.
 - [Open State Foundation](https://openstate.eu/en/) – Projects to unlock government data in the Netherlands.
 - [OpenAIRE](https://www.openaire.eu/) – EU-based open access research and public data platform.
+- [Global Law](https://github.com/lexifina/global-law) – The law of 208 jurisdictions as git histories, each change a commit dated the day it took effect.
 
 ## Science & Research Data
 
