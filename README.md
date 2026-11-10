@@ -84,6 +84,7 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [OpenCorporates](https://opencorporates.com/) – The largest open database of companies in the world.
 - [SEC EDGAR Database](https://www.sec.gov/edgar.shtml) – U.S. corporate financial filings.
 - [Companies House (UK)](https://www.gov.uk/government/organisations/companies-house) – UK company registration and filings.
+- [Datacircle](https://datacircle.dev) – Free open API with no key (https://api.datacircle.dev/v1) listing every GTM data API and who is best for each.
 
 ## Civic & Political Data
 
