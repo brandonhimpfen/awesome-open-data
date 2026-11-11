@@ -43,6 +43,7 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [Open State Foundation](https://openstate.eu/en/) – Projects to unlock government data in the Netherlands.
 - [OpenAIRE](https://www.openaire.eu/) – EU-based open access research and public data platform.
 - [Global Law](https://github.com/lexifina/global-law) – The law of 208 jurisdictions as git histories, each change a commit dated the day it took effect.
+- [PURSUE Declassified UAP Files](https://github.com/tomasstankovic/uapinsight-pursue-dataset) – Every US government UAP document released under PURSUE (war.gov/UFO) as CSV/JSONL, with page-by-page transcriptions.
 
 ## Science & Research Data
 
