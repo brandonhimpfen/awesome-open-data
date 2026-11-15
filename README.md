@@ -57,6 +57,7 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [Natural Earth](https://www.naturalearthdata.com/) – Public domain map dataset of the world.
 - [USGS Earth Explorer](https://earthexplorer.usgs.gov/) – Satellite imagery and geospatial data from the U.S. Geological Survey.
 - [NASA Earthdata](https://earthdata.nasa.gov/) – Earth science data from NASA.
+- [No Stairs Please](https://nostairsplease.com/) – Open directory and geospatial dataset of independent small live-music venues (<400 capacity) across all 50 US states, DC, and British Columbia, including step-free access and [MCP endpoint](https://nostairsplease.com/mcp).
 
 ## Healthcare & Medical Data
 
