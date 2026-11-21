@@ -71,6 +71,7 @@ Open data enables transparency, innovation, and collaboration across science, go
 - [IMF Data](https://data.imf.org/) – Global macroeconomic data from the International Monetary Fund.
 - [FRED](https://fred.stlouisfed.org/) – Economic research data from the U.S. Federal Reserve.
 - [Quandl](https://www.quandl.com/) – Open and premium financial, economic, and alternative data.
+- [US Real Estate Listing Photo Data](https://www.october-ai.com/data) – Published prices for real estate photography, editing, virtual staging, video and floor plans in the US, plus MLS photo rules, each row sourced. CSV and JSON, CC BY 4.0.
 
 ## Environment & Climate Data
 
